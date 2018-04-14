@@ -1,4 +1,4 @@
-package trầnthuận;
+﻿package baitap;
 
 public class bài1 {
 	public static boolean contains(int[] arr, int item) {
